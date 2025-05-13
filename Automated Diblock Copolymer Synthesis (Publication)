@@ -56,7 +56,7 @@ DP_target2 = 200
 con_stock_monomer2 =3
 con_macroRAFT = 0.15
 monomer1 = 'EA'
-monomer2 = 'EHA-co-DMAC'
+monomer2 = 'BA'
 
 #Objective for fine tuning experiment
 n_iterations_max = 20 #experimental budget for fine tuning experiment (first block)
